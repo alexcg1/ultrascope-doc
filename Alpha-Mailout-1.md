@@ -1,42 +1,40 @@
 # Welcome! 
 
-So here it is: We are very happy to have an alpha release waiting for you to dive into the build! After many experiments and revisions we have an alpha release of the Ultrascope Explorer (UE) for you to get started:
+So here it is: We are very happy to have an alpha release waiting for you to dive in the build! After many experiments and revisions we have an alpha release of the Ultrascope Explorer (UE) for you to get started:
 
-# What we've set up, and next steps
+# What we set up  & next steps
 
-Release of files on [Onshape](http://www.onshape.com) for 3D Design
+Release of files on  Onshape for 3D Desgin
+1) UE Mechanical design files
 
-1. UE Mechanical design files
+ Release of files on Github for further code and documentation:
+1) UE Arduino shield electronics schematics & PCB layout
+2 UE Arduino/ driver code
+3 Bill of materials (BOM)
+4) Suggested timeline
 
-Release of files on [Github](http://www.github.com) for further code and documentation:
- 
-1. UE Arduino shield electronics schematics & PCB layout
-2. UE Arduino/ driver code
-3. Bill of materials (BOM)
-4. Suggested timeline
+Release  mails with video snippets with notes over the next weeks describing assembly steps
+Running Google hangouts to brief you and get your feedback
+Connecting with you on design improvements
 
-* Release mails with video snippets with notes over the next weeks describing assembly steps
-* Running Google hangouts to brief you and get your feedback
-* Connecting with you on design improvements
-* Share your work and tweet your progress !
+Share back your work and tweet your progress !
 
-There are a variety of ways to share your progress and feed back to us and the wider Ultrascope community
-
-* To document your build progress, send a tweet using the #ultrascope hashtag and cc [@OSA_projects](http://www.twitter.com/osa_projects) [@octo23tech](http://www.twitter.com/octo23tech) and [@spacegambit](http://www.twitter.com/spacegambit)
-* To add an improvement to the mechanical design, first **branch (!!)**  the Onshape model and tweak away, then let us know.
-* For questions about Onshape, use the tutorials and videos. For technical issues use the Onshape feedback mechanism.
-* For code submissions, bill of materials, electronics and documentation updates, issues and feedback, use github.
+There are a variety of ways to share your progress and feed back to us and the wider Ultrascope community:
+For build progress send a tweet, use #ultrascope cc to  @OSA_projects @octo23tech @spacegambit
+To add an improvement to the mechanical design, first branch (!!)  the Onshape model and tweak away, then let us know.
+For questions in Onshape use, use the tutorials, videos and for technical issues use the Onshape feedback mechanism
+For code submissions, bill of materials, electronics and documentation updates, issues and feedback, use github features
 
 
 # UE Mechanical Design
 You should have already been invited to the engineering platform Onshape.
 
-## Not logged in yet? Please do.
-If you are missing an invitation, let us know and we'll re-invite you to Onshape.
+# You have not logged in yet? Please do.
+If you are missing an invitation, let us know and we re-invite you to Onshape.
 
 Onshape is where we are releasing the live 3D mechanical design files.
 
-You will receive a further email that joins you as Onshape user into the  Ultrascope Explorer Alpha 3D workspace. Onshape lets us collaborate with you on the mechanical design in a way similar to github allowing branching/merging, history tracking and rollback on the shared 3D mechanical model files. You can branch and tweak the UE design and we can merge any improvements and changes into the main model. 
+You will receive a further email that joins you as Onshape user into the  Ultrascope Explorer Alpha 3D workspace. Onshape let's us collaborate with you on the mechanical design in a way similar to github allowing branching/merging, history tracking and rollback on the shared 3D mechanical model files. You can branch and tweak the UE design and we can merge any improvements and changes into the main model. 
 
 You can participate with the 3D model design just on the Onshape platform without the need for downloading CAD files or purchasing dedicated 3D CAD software.
 
@@ -64,14 +62,13 @@ We do this to make sure we have an initial user tested release for the beta and 
 
 All Onshape and Github UE repositories will be made public after concluding the Alpha phase.
 
-## Alpha testers opt in
+# Alpha testers opt in
 As Ultrascope Explorer Alpha community member you agree to the following :
 You acknowledge that this is an alpha stage design that still has some potential bugs which you are helping to sort out with us during the build.
-
 You acknowledge the interim licence: Open Commons, Attribution, Non-commercial (which we are moving to an Open Hardware Licence; we are in the process of picking out one of the common models CERN, MIT, TAPR, etc.)
 As we are looking to set up a series Google hangouts,we realize that not everybody can make all times. We endeavour to summarize any important outcomes to all of you and you will be able to pass on any queries/bug reports and issues via the github repository.
 
-## Timing and Sequencing
+# Timing and Sequencing
 We have sketched out a suggested sequence for the build which is available on Onshape. We will revise this as we go also. We realise that not everybody will of course be able to operate on this schedule, this is just meant to be a guide and will be coordinated with the tutorial video release we are planning to make.
 
 # Thank You!
